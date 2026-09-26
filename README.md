@@ -19,9 +19,9 @@ Mata kuliah ini membahas konsep fundamental dan aplikatif mengenai perlindungan 
 
 ## Matriks Rencana Pembelajaran (16 Pertemuan)
 
-| Pertemuan | Pokok Bahasan | Sub-Pokok Bahasan & Kaitan dengan Cybersecurity | Metode Pembelajaran |
-|:---:|---|---|---|
-| **1** | **Pengantar Keamanan Data & Cybersecurity** | - Konsep CIA Triad (Confidentiality, Integrity, Availability)<br>- Perbedaan Keamanan Informasi vs Cybersecurity<br>- Anatomi ruang siber (Fisik, Logika, Persona) | Ceramah & Diskusi |
+| Pertemuan | Pokok Bahasan | Sub-Pokok Bahasan & Kaitan dengan Cybersecurity | Metode Pembelajaran |Materi|
+|:---:|---|---|---|---|
+| **1** | **Pengantar Keamanan Data & Cybersecurity** | - Konsep CIA Triad (Confidentiality, Integrity, Availability)<br>- Perbedaan Keamanan Informasi vs Cybersecurity<br>- Anatomi ruang siber (Fisik, Logika, Persona) | Ceramah & Diskusi | [Week_1]/(./Week_1)
 | **2** | **Lanskap Ancaman & Serangan Siber** | - Jenis *Malware* (Ransomware, Trojan, Spyware)<br>- *Social Engineering* (Phishing, Spear Phishing)<br>- *Advanced Persistent Threats* (APT) | Studi Kasus / *Active Learning* |
 | **3** | **Dasar Kriptografi dalam Cybersecurity** | - Sejarah & Terminologi Kriptografi<br>- Steganografi vs Kriptografi<br>- Penerapan kriptografi modern dalam komunikasi digital | Ceramah & Tanya Jawab |
 | **4** | **Kriptografi Simetris & Fungsi Hash** | - Algoritma Blok dan Stream (DES, AES)<br>- Fungsi Hash (SHA-2, SHA-3)<br>- Implementasi pada *password hashing* & integritas file | *Case-based Learning* |
